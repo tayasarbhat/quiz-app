@@ -4,7 +4,7 @@
         <i data-lucide="Heart" class="w-12 h-12 text-white"></i>
       </div>
       <h2 class="text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 to-purple-600 mb-4">
-        Welcome to the Quiz
+        Welcome to the Qui
       </h2>
       <p class="text-gray-600 mb-8 text-lg">Enter your name to begin</p>
       <form id="name-form" class="max-w-sm mx-auto">
